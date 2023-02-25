@@ -1,4 +1,3 @@
-# ~TODO~
 
 > A [Marcelle](https://marcelle.dev) Application
 

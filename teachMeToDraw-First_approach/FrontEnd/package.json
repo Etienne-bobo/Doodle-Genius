@@ -1,0 +1,32 @@
+{
+  "name": "teachmeto",
+  "description": "A Marcelle Application",
+  "version": "0.0.0",
+  "keywords": [
+    "marcelle"
+  ],
+  "main": "public/bundle.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@marcellejs/core": "^0.6.0",
+    "canvas": "^2.11.0"
+  },
+  "devDependencies": {
+    "@marcellejs/design-system": "^0.6.0",
+    "@marcellejs/devtools": "^0.6.0",
+    "@sveltejs/vite-plugin-svelte": "^1.0.9",
+    "eslint": "^8.24.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.1.0",
+    "eslint-plugin-svelte3": "^4.0.0",
+    "prettier": "^2.7.1",
+    "svelte": "^3.50.1",
+    "svelte-preprocess": "^4.10.7",
+    "vite": "^3.1.8"
+  }
+}
