@@ -1,4 +1,7 @@
-# Doodle-Genius: a two-way interactive platform teaching user to draw and machine to evolute. ### [Click here for project report](https://drive.google.com/file/d/13n5gGijDsrFHdIPviruChd7PeEAAOE0C/view?usp=sharing)
+# Doodle-Genius: a two-way interactive platform teaching user to draw and machine to evolute. 
+
+### [Click here for project report](https://drive.google.com/file/d/13n5gGijDsrFHdIPviruChd7PeEAAOE0C/view?usp=sharing)
+
 ## Interface:
 <img src="https://github.com/Etienne-bobo/Doodle-Genius/blob/49003f15a2f6baf4b2ef79b28186402a6702562f/Screenshot%20from%202023-02-24%2016-06-29.png" width=80% height=80%>
 
